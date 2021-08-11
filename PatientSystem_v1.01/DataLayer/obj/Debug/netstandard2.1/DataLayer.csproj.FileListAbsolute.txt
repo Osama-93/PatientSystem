@@ -1,0 +1,9 @@
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\bin\Debug\netstandard2.1\DataLayer.deps.json
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\bin\Debug\netstandard2.1\DataLayer.dll
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\bin\Debug\netstandard2.1\DataLayer.pdb
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfo.cs
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.dll
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.pdb
+C:\Users\osama\source\repos\PatientSystem_v1.01\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.AssemblyReference.cache

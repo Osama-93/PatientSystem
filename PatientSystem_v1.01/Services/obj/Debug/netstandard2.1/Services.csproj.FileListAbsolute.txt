@@ -1,0 +1,9 @@
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\bin\Debug\netstandard2.1\Services.deps.json
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\bin\Debug\netstandard2.1\Services.dll
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\bin\Debug\netstandard2.1\Services.pdb
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.AssemblyInfo.cs
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.dll
+C:\Users\osama\source\repos\PatientSystem_v1.01\Services\obj\Debug\netstandard2.1\Services.pdb
